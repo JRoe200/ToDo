@@ -1,0 +1,56 @@
+input[type="text"] {
+  width: 300px;
+  height: 40px;
+  display: flex;
+  float: center;
+  margin: 0%0%5%0%;
+  font-family: copperplate;
+  background-color: lightgray;
+  border: none;
+  font-size: 20px;
+}
+
+.signupLabel {
+  margin: 0% 5% 0% 0%;
+  font-family: copperplate;
+  font-size: 20px;
+}
+
+.signinH1 {
+  font-size: 35px;
+  text-align: center;
+  font-family: Copperplate;
+  color: darkgreen;
+}
+
+.signupButton {
+  float: center;
+  font-family: Copperplate;
+  color: white;
+  background-color: darkgreen;
+  border: none;
+  padding: 20px 30px;
+}
+
+.pSignUp {
+  display: flex;
+  font-family: copperplate;
+  margin: 0% 0% 1% 76%;
+  font-size: 21px;
+}
+
+form {
+  float: right;
+  margin: 0% 5% 0% 0%;
+}
+
+.move {
+  padding-top: 30em;
+}
+
+.img {
+  border: solid green;
+  margin: 0% 0% 0% 17%;
+  max-height: 50%;
+  max-width: 50%;
+}
